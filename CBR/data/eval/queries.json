@@ -1,0 +1,52 @@
+[
+  {
+    "query": "Permohonan kasasi oleh penuntut umum dalam perkara tindak pidana korupsi kerugian keuangan negara, dengan keberatan terhadap putusan pengadilan tinggi yang membebaskan terdakwa dari dakwaan primair Pasal 2 ayat (1) UU No. 31 Tahun 1999 karena dianggap tidak terbukti secara sah dan meyakinkan, dan hanya mengenakan pidana berdasarkan dakwaan subsidair Pasal 3",
+    "case_id": "case_001",
+    "solution": "Permohonan Ditolak"
+  },
+  {
+    "query": "Permohonan peninjauan kembali oleh terdakwa dalam perkara korupsi kerugian keuangan negara, dengan dalil adanya bukti baru (novum) berupa dokumen transaksi yang menunjukkan bahwa dana hibah telah dikembalikan sebelum putusan pengadilan berkekuatan hukum tetap, bertentangan dengan putusan pengadilan tinggi yang mengenakan pidana berdasarkan Pasal 3 UU No. 31 Tahun 1999",
+    "case_id": "case_002",
+    "solution": "Permohonan Dikabulkan"
+  },
+  {
+    "query": "Kasasi oleh terdakwa terhadap putusan pengadilan tinggi yang menyatakan terdakwa bersalah melakukan tindak pidana korupsi secara bersama-sama berdasarkan Pasal 3 juncto Pasal 55 ayat (1) ke-1 KUHP, dengan keberatan bahwa terdakwa tidak terlibat langsung dalam pengelolaan dana hibah yang menyebabkan kerugian keuangan negara",
+    "case_id": "case_003",
+    "solution": "Permohonan Dikabulkan Sebagian"
+  },
+  {
+    "query": "Permohonan kasasi oleh penuntut umum dalam perkara korupsi, dengan dalil bahwa pengadilan tinggi keliru dalam menilai fakta hukum terkait peran terdakwa sebagai ketua tim pelaksana anggaran yang menyebabkan kerugian keuangan negara sebesar Rp400.000.000, sebagaimana diatur dalam Pasal 2 ayat (1) UU No. 31 Tahun 1999",
+    "case_id": "case_004",
+    "solution": "Putusan Dikuatkan"
+  },
+  {
+    "query": "Permohonan peninjauan kembali oleh terdakwa dengan alasan kekhilafan hakim dalam putusan pengadilan tinggi yang menguatkan pidana penjara dan denda berdasarkan Pasal 3 UU No. 31 Tahun 1999, karena laporan pertanggungjawaban dana hibah disusun tanpa sepengetahuan terdakwa",
+    "case_id": "case_005",
+    "solution": "Permohonan Ditolak"
+  },
+  {
+    "query": "Kasasi oleh terdakwa dalam perkara tindak pidana korupsi, dengan keberatan terhadap putusan pengadilan tinggi yang menyatakan terdakwa bersalah berdasarkan Pasal 3 juncto Pasal 18 ayat (1) huruf b UU No. 31 Tahun 1999, karena tidak ada bukti bahwa terdakwa memperoleh keuntungan pribadi dari kerugian keuangan negara",
+    "case_id": "case_006",
+    "solution": "Putusan Dibatalkan"
+  },
+  {
+    "query": "Permohonan kasasi oleh penuntut umum terhadap putusan pengadilan tinggi yang mengurangi pidana penjara terdakwa dari 2 tahun menjadi 1 tahun 6 bulan berdasarkan Pasal 3 UU No. 31 Tahun 1999, dengan dalil bahwa pengurangan pidana tidak sesuai dengan tingkat kerugian keuangan negara",
+    "case_id": "case_007",
+    "solution": "Permohonan Dikabulkan Sebagian"
+  },
+  {
+    "query": "Permohonan peninjauan kembali oleh terdakwa dalam perkara korupsi kerugian keuangan negara, dengan dalil bahwa putusan pengadilan tinggi yang mengenakan pidana berdasarkan Pasal 3 UU No. 31 Tahun 1999 bertentangan dengan fakta bahwa terdakwa hanya melaksanakan perintah atasan tanpa wewenang pengelolaan dana",
+    "case_id": "case_008",
+    "solution": "Permohonan Dikabulkan"
+  },
+  {
+    "query": "Kasasi oleh terdakwa terhadap putusan pengadilan tinggi yang menyatakan terdakwa bersalah melakukan korupsi berdasarkan Pasal 3 juncto Pasal 55 ayat (1) ke-1 KUHP, dengan keberatan bahwa tidak ada bukti keterlibatan terdakwa dalam penyusunan laporan pertanggungjawaban dana yang menyebabkan kerugian negara",
+    "case_id": "case_009",
+    "solution": "Putusan Dibatalkan"
+  },
+  {
+    "query": "Permohonan kasasi oleh penuntut umum dalam perkara tindak pidana korupsi, dengan dalil bahwa pengadilan tinggi keliru dalam membebaskan terdakwa dari dakwaan primair Pasal 2 ayat (1) UU No. 31 Tahun 1999, karena terdapat bukti bahwa terdakwa sengaja memalsukan dokumen pengeluaran untuk keuntungan pribadi",
+    "case_id": "case_010",
+    "solution": "Putusan Dikuatkan"
+  }
+]

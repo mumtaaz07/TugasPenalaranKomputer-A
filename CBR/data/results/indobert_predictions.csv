@@ -1,0 +1,51 @@
+query_id,predicted_solution,top_5_case_ids,metrics
+case_001,Putusan Dikuatkan,"case_001, case_012, case_010, case_011, case_004","{'accuracy': 0.4, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0}"
+case_002,Permohonan Dikabulkan,"case_005, case_002, case_008, case_043, case_042","{'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1': 1.0}"
+case_003,Permohonan Dikabulkan Sebagian,"case_003, case_035, case_021, case_013, case_017","{'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1': 1.0}"
+case_004,Putusan Dikuatkan,"case_004, case_012, case_011, case_001, case_010","{'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1': 1.0}"
+case_005,Permohonan Dikabulkan,"case_005, case_002, case_008, case_043, case_042","{'accuracy': 0.4, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0}"
+case_006,Permohonan Dikabulkan Sebagian,"case_006, case_038, case_035, case_007, case_032","{'accuracy': 0.6, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0}"
+case_007,Permohonan Dikabulkan Sebagian,"case_007, case_006, case_035, case_038, case_036","{'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1': 1.0}"
+case_008,Permohonan Dikabulkan,"case_002, case_005, case_008, case_042, case_040","{'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1': 1.0}"
+case_009,Permohonan Dikabulkan Sebagian,"case_009, case_017, case_007, case_035, case_019","{'accuracy': 0.6, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0}"
+case_010,Putusan Dikuatkan,"case_012, case_010, case_004, case_011, case_001","{'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1': 1.0}"
+case_011,Putusan Dikuatkan,"case_011, case_012, case_004, case_010, case_001",{}
+case_012,Putusan Dikuatkan,"case_012, case_001, case_004, case_010, case_011",{}
+case_013,Tidak ditemukan,"case_013, case_021, case_036, case_024, case_035",{}
+case_014,Tidak ditemukan,"case_049, case_014, case_047, case_022, case_050",{}
+case_015,Tidak ditemukan,"case_049, case_015, case_014, case_047, case_035",{}
+case_016,Tidak ditemukan,"case_016, case_039, case_045, case_031, case_028",{}
+case_017,Tidak ditemukan,"case_021, case_036, case_017, case_035, case_027",{}
+case_018,Tidak ditemukan,"case_018, case_040, case_042, case_043, case_026",{}
+case_019,Permohonan Dikabulkan Sebagian,"case_017, case_035, case_019, case_021, case_003",{}
+case_020,Tidak ditemukan,"case_020, case_024, case_029, case_022, case_027",{}
+case_021,Tidak ditemukan,"case_021, case_017, case_013, case_036, case_035",{}
+case_022,Permohonan Dikabulkan Sebagian,"case_022, case_003, case_033, case_021, case_035",{}
+case_023,Tidak ditemukan,"case_045, case_023, case_035, case_036, case_021",{}
+case_024,Tidak ditemukan,"case_024, case_034, case_030, case_027, case_036",{}
+case_025,Tidak ditemukan,"case_026, case_041, case_025, case_043, case_040",{}
+case_026,Tidak ditemukan,"case_026, case_041, case_025, case_043, case_040",{}
+case_027,Permohonan Dikabulkan Sebagian,"case_027, case_034, case_030, case_003, case_017",{}
+case_028,Tidak ditemukan,"case_028, case_032, case_016, case_044, case_039",{}
+case_029,Tidak ditemukan,"case_029, case_024, case_020, case_034, case_027",{}
+case_030,Tidak ditemukan,"case_030, case_024, case_027, case_017, case_036",{}
+case_031,Tidak ditemukan,"case_031, case_016, case_028, case_045, case_039",{}
+case_032,Tidak ditemukan,"case_032, case_045, case_028, case_027, case_036",{}
+case_033,Permohonan Dikabulkan Sebagian,"case_033, case_034, case_021, case_003, case_022",{}
+case_034,Tidak ditemukan,"case_034, case_024, case_027, case_030, case_033",{}
+case_035,Permohonan Dikabulkan Sebagian,"case_035, case_007, case_038, case_006, case_032",{}
+case_036,Tidak ditemukan,"case_036, case_035, case_017, case_024, case_013",{}
+case_037,Tidak ditemukan,"case_030, case_024, case_037, case_032, case_019",{}
+case_038,Permohonan Dikabulkan Sebagian,"case_038, case_035, case_006, case_007, case_032",{}
+case_039,Tidak ditemukan,"case_039, case_016, case_028, case_044, case_031",{}
+case_040,Tidak ditemukan,"case_040, case_042, case_043, case_041, case_025",{}
+case_041,Tidak ditemukan,"case_026, case_041, case_025, case_043, case_040",{}
+case_042,Tidak ditemukan,"case_040, case_042, case_043, case_041, case_025",{}
+case_043,Tidak ditemukan,"case_043, case_040, case_042, case_026, case_025",{}
+case_044,Tidak ditemukan,"case_044, case_028, case_032, case_016, case_039",{}
+case_045,Tidak ditemukan,"case_045, case_032, case_016, case_023, case_012",{}
+case_046,Permohonan Dikabulkan Sebagian,"case_003, case_046, case_033, case_024, case_034",{}
+case_047,Tidak ditemukan,"case_047, case_049, case_050, case_048, case_014",{}
+case_048,Tidak ditemukan,"case_048, case_050, case_047, case_049, case_021",{}
+case_049,Tidak ditemukan,"case_049, case_048, case_050, case_047, case_014",{}
+case_050,Tidak ditemukan,"case_050, case_048, case_047, case_049, case_014",{}

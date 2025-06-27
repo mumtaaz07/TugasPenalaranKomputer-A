@@ -1,0 +1,478 @@
+2025-06-25 18:55:31,699 - INFO - Starting evaluation process at 2025-06-25 18:55:31
+2025-06-25 18:55:31,703 - INFO - Loaded 5 queries from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval\queries.json
+2025-06-25 18:55:31,732 - INFO - Loaded prediction results: LogReg (50), SVM (50), IndoBERT (50)
+2025-06-25 18:55:31,736 - INFO - Loaded 50 cases from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\processed\cases.csv
+2025-06-25 18:55:31,745 - INFO - Retrieval Metrics: {'Logistic Regression': {'accuracy_at_k': 0.18, 'mrr': 0.18}, 'SVM': {'accuracy_at_k': 0.18, 'mrr': 0.18}, 'Indo-BERT': {'accuracy_at_k': 1.0, 'mrr': 1.0}}
+2025-06-25 18:55:31,748 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 18:55:31,751 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 18:55:31,753 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 18:55:31,754 - INFO - Prediction Metrics: {'Logistic Regression': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}, 'SVM': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}, 'Indo-BERT': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}}
+2025-06-25 18:55:31,759 - INFO - Saved retrieval metrics to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval/retrieval_metrics.csv
+2025-06-25 18:55:31,762 - INFO - Saved prediction metrics to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval/prediction_metrics.csv
+2025-06-25 18:55:31,764 - INFO - Generating Confusion Matrices
+2025-06-25 18:55:31,766 - WARNING - No valid true/predicted pairs for Logistic Regression confusion matrix
+2025-06-25 18:55:31,769 - WARNING - No valid true/predicted pairs for SVM confusion matrix
+2025-06-25 18:55:31,772 - WARNING - No valid true/predicted pairs for Indo-BERT confusion matrix
+2025-06-25 18:55:31,773 - INFO - Generating Classification Reports
+2025-06-25 18:55:31,777 - INFO - Logistic Regression Classification Report
+2025-06-25 18:55:31,780 - ERROR - Error generating classification report for Logistic Regression: max() arg is an empty sequence
+2025-06-25 18:55:31,783 - INFO - SVM Classification Report
+2025-06-25 18:55:31,785 - ERROR - Error generating classification report for SVM: max() arg is an empty sequence
+2025-06-25 18:55:31,791 - INFO - Indo-BERT Classification Report
+2025-06-25 18:55:31,796 - ERROR - Error generating classification report for Indo-BERT: max() arg is an empty sequence
+2025-06-25 18:55:31,797 - INFO - Visualizing Metrics
+2025-06-25 18:55:32,177 - INFO - Performing LIME Error Analysis
+2025-06-25 18:55:32,179 - INFO - Logistic Regression Error Analysis
+2025-06-25 18:55:32,203 - INFO - No errors found or no valid texts for Logistic Regression analysis
+2025-06-25 18:55:32,205 - INFO - SVM Error Analysis
+2025-06-25 18:55:32,213 - INFO - No errors found or no valid texts for SVM analysis
+2025-06-25 18:55:32,214 - INFO - Indo-BERT Error Analysis
+2025-06-25 18:55:32,221 - INFO - No errors found or no valid texts for Indo-BERT analysis
+2025-06-25 19:00:11,531 - INFO - Starting evaluation process at 2025-06-25 19:00:11
+2025-06-25 19:00:11,535 - INFO - Loaded 5 queries from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval\queries.json
+2025-06-25 19:00:11,541 - INFO - Loaded prediction results: LogReg (50), SVM (50), IndoBERT (50)
+2025-06-25 19:00:11,544 - INFO - Loaded 50 cases from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\processed\cases.csv
+2025-06-25 19:00:11,549 - INFO - Retrieval Metrics: {'Logistic Regression': {'accuracy_at_k': 0.18, 'mrr': np.float64(0.18)}, 'SVM': {'accuracy_at_k': 0.18, 'mrr': np.float64(0.18)}, 'Indo-BERT': {'accuracy_at_k': 1.0, 'mrr': np.float64(1.0)}}
+2025-06-25 19:00:11,551 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:00:11,554 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:00:11,556 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:00:11,557 - INFO - Prediction Metrics: {'Logistic Regression': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}, 'SVM': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}, 'Indo-BERT': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}}
+2025-06-25 19:00:11,562 - INFO - Saved retrieval metrics to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval/retrieval_metrics.csv
+2025-06-25 19:00:11,565 - INFO - Saved prediction metrics to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval/prediction_metrics.csv
+2025-06-25 19:00:11,566 - INFO - Generating Confusion Matrices
+2025-06-25 19:00:11,568 - WARNING - No valid true/predicted pairs for Logistic Regression confusion matrix
+2025-06-25 19:00:11,571 - WARNING - No valid true/predicted pairs for SVM confusion matrix
+2025-06-25 19:00:11,574 - WARNING - No valid true/predicted pairs for Indo-BERT confusion matrix
+2025-06-25 19:00:11,575 - INFO - Generating Classification Reports
+2025-06-25 19:00:11,581 - INFO - Logistic Regression Classification Report
+2025-06-25 19:00:11,584 - ERROR - Error generating classification report for Logistic Regression: max() arg is an empty sequence
+2025-06-25 19:00:11,588 - INFO - SVM Classification Report
+2025-06-25 19:00:11,591 - ERROR - Error generating classification report for SVM: max() arg is an empty sequence
+2025-06-25 19:00:11,596 - INFO - Indo-BERT Classification Report
+2025-06-25 19:00:11,598 - ERROR - Error generating classification report for Indo-BERT: max() arg is an empty sequence
+2025-06-25 19:00:11,599 - INFO - Visualizing Metrics
+2025-06-25 19:00:11,928 - INFO - Performing LIME Error Analysis
+2025-06-25 19:00:11,929 - INFO - Logistic Regression Error Analysis
+2025-06-25 19:00:11,955 - INFO - No errors found or no valid texts for Logistic Regression analysis
+2025-06-25 19:00:11,957 - INFO - SVM Error Analysis
+2025-06-25 19:00:11,966 - INFO - No errors found or no valid texts for SVM analysis
+2025-06-25 19:00:11,967 - INFO - Indo-BERT Error Analysis
+2025-06-25 19:00:11,975 - INFO - No errors found or no valid texts for Indo-BERT analysis
+2025-06-25 19:02:53,489 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\logs
+2025-06-25 19:02:53,490 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval
+2025-06-25 19:02:53,491 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\processed
+2025-06-25 19:02:53,493 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval
+2025-06-25 19:02:53,494 - INFO - Starting evaluation process at 2025-06-25 19:02:53
+2025-06-25 19:02:53,501 - INFO - Loaded 5 queries from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval\queries.json, 0 with valid solutions
+2025-06-25 19:02:53,508 - INFO - Loaded prediction results: LogReg (50), SVM (50), IndoBERT (50)
+2025-06-25 19:02:53,511 - INFO - Loaded 50 cases from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\processed\cases.csv
+2025-06-25 19:02:53,512 - ERROR - Error evaluating retrieval: 'query_id'
+2025-06-25 19:02:53,513 - ERROR - Error evaluating retrieval: 'query_id'
+2025-06-25 19:02:53,514 - ERROR - Error evaluating retrieval: 'query_id'
+2025-06-25 19:02:53,515 - INFO - Retrieval Metrics: {'Logistic Regression': {'accuracy_at_k': 0.0, 'mrr': 0.0}, 'SVM': {'accuracy_at_k': 0.0, 'mrr': 0.0}, 'Indo-BERT': {'accuracy_at_k': 0.0, 'mrr': 0.0}}
+2025-06-25 19:02:53,520 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:02:53,524 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:02:53,529 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:02:53,530 - INFO - Prediction Metrics: {'Logistic Regression': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}, 'SVM': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}, 'Indo-BERT': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}}
+2025-06-25 19:02:53,534 - INFO - Saved retrieval metrics to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval/retrieval_metrics.csv
+2025-06-25 19:02:53,540 - INFO - Saved prediction metrics to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval/prediction_metrics.csv
+2025-06-25 19:02:53,540 - INFO - Generating Confusion Matrices
+2025-06-25 19:02:53,543 - WARNING - No valid true/predicted pairs for Logistic Regression confusion matrix
+2025-06-25 19:02:53,547 - WARNING - No valid true/predicted pairs for SVM confusion matrix
+2025-06-25 19:02:53,551 - WARNING - No valid true/predicted pairs for Indo-BERT confusion matrix
+2025-06-25 19:02:53,551 - INFO - Generating Classification Reports
+2025-06-25 19:02:53,558 - INFO - Logistic Regression Classification Report
+2025-06-25 19:02:53,561 - ERROR - Error generating classification report for Logistic Regression: max() arg is an empty sequence
+2025-06-25 19:02:53,565 - INFO - SVM Classification Report
+2025-06-25 19:02:53,568 - ERROR - Error generating classification report for SVM: max() arg is an empty sequence
+2025-06-25 19:02:53,573 - INFO - Indo-BERT Classification Report
+2025-06-25 19:02:53,576 - ERROR - Error generating classification report for Indo-BERT: max() arg is an empty sequence
+2025-06-25 19:02:53,577 - INFO - Visualizing Metrics
+2025-06-25 19:02:53,810 - INFO - Performing LIME Error Analysis
+2025-06-25 19:02:53,810 - INFO - Logistic Regression Error Analysis
+2025-06-25 19:02:53,826 - INFO - No errors found or no valid texts for Logistic Regression analysis
+2025-06-25 19:02:53,828 - INFO - SVM Error Analysis
+2025-06-25 19:02:53,847 - INFO - No errors found or no valid texts for SVM analysis
+2025-06-25 19:02:53,848 - INFO - Indo-BERT Error Analysis
+2025-06-25 19:02:53,863 - INFO - No errors found or no valid texts for Indo-BERT analysis
+2025-06-25 19:05:14,156 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\logs
+2025-06-25 19:05:14,158 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval
+2025-06-25 19:05:14,160 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\processed
+2025-06-25 19:05:14,161 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval
+2025-06-25 19:05:14,164 - INFO - Starting evaluation process at 2025-06-25 19:05:14
+2025-06-25 19:05:14,172 - INFO - Loaded 5 queries from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval\queries.json, 0 with valid solutions
+2025-06-25 19:05:14,180 - INFO - Loaded prediction results: LogReg (50), SVM (50), IndoBERT (50)
+2025-06-25 19:05:14,185 - INFO - Loaded 50 cases from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\processed\cases.csv
+2025-06-25 19:05:14,187 - WARNING - Query ID CASE_1 in LogReg not found in ground truth
+2025-06-25 19:05:14,188 - WARNING - Query ID CASE_1 in LogReg has no associated case_id
+2025-06-25 19:05:14,190 - WARNING - Query ID CASE_2 in LogReg not found in ground truth
+2025-06-25 19:05:14,191 - WARNING - Query ID CASE_2 in LogReg has no associated case_id
+2025-06-25 19:05:14,192 - WARNING - Query ID CASE_3 in LogReg not found in ground truth
+2025-06-25 19:05:14,193 - WARNING - Query ID CASE_3 in LogReg has no associated case_id
+2025-06-25 19:05:14,195 - WARNING - Query ID CASE_4 in LogReg not found in ground truth
+2025-06-25 19:05:14,196 - WARNING - Query ID CASE_4 in LogReg has no associated case_id
+2025-06-25 19:05:14,197 - WARNING - Query ID CASE_5 in LogReg not found in ground truth
+2025-06-25 19:05:14,198 - WARNING - Query ID CASE_5 in LogReg has no associated case_id
+2025-06-25 19:05:14,199 - WARNING - Query ID CASE_6 in LogReg not found in ground truth
+2025-06-25 19:05:14,200 - WARNING - Query ID CASE_6 in LogReg has no associated case_id
+2025-06-25 19:05:14,201 - WARNING - Query ID CASE_7 in LogReg not found in ground truth
+2025-06-25 19:05:14,202 - WARNING - Query ID CASE_7 in LogReg has no associated case_id
+2025-06-25 19:05:14,204 - WARNING - Query ID CASE_8 in LogReg not found in ground truth
+2025-06-25 19:05:14,205 - WARNING - Query ID CASE_8 in LogReg has no associated case_id
+2025-06-25 19:05:14,205 - WARNING - Query ID CASE_9 in LogReg not found in ground truth
+2025-06-25 19:05:14,206 - WARNING - Query ID CASE_9 in LogReg has no associated case_id
+2025-06-25 19:05:14,207 - WARNING - Query ID CASE_10 in LogReg not found in ground truth
+2025-06-25 19:05:14,208 - WARNING - Query ID CASE_10 in LogReg has no associated case_id
+2025-06-25 19:05:14,208 - WARNING - Query ID CASE_11 in LogReg not found in ground truth
+2025-06-25 19:05:14,209 - WARNING - Query ID CASE_11 in LogReg has no associated case_id
+2025-06-25 19:05:14,210 - WARNING - Query ID CASE_12 in LogReg not found in ground truth
+2025-06-25 19:05:14,210 - WARNING - Query ID CASE_12 in LogReg has no associated case_id
+2025-06-25 19:05:14,212 - WARNING - Query ID CASE_13 in LogReg not found in ground truth
+2025-06-25 19:05:14,214 - WARNING - Query ID CASE_13 in LogReg has no associated case_id
+2025-06-25 19:05:14,215 - WARNING - Query ID CASE_14 in LogReg not found in ground truth
+2025-06-25 19:05:14,216 - WARNING - Query ID CASE_14 in LogReg has no associated case_id
+2025-06-25 19:05:14,216 - WARNING - Query ID CASE_15 in LogReg not found in ground truth
+2025-06-25 19:05:14,217 - WARNING - Query ID CASE_15 in LogReg has no associated case_id
+2025-06-25 19:05:14,218 - WARNING - Query ID CASE_16 in LogReg not found in ground truth
+2025-06-25 19:05:14,220 - WARNING - Query ID CASE_16 in LogReg has no associated case_id
+2025-06-25 19:05:14,221 - WARNING - Query ID CASE_17 in LogReg not found in ground truth
+2025-06-25 19:05:14,222 - WARNING - Query ID CASE_17 in LogReg has no associated case_id
+2025-06-25 19:05:14,223 - WARNING - Query ID CASE_18 in LogReg not found in ground truth
+2025-06-25 19:05:14,224 - WARNING - Query ID CASE_18 in LogReg has no associated case_id
+2025-06-25 19:05:14,225 - WARNING - Query ID CASE_19 in LogReg not found in ground truth
+2025-06-25 19:05:14,226 - WARNING - Query ID CASE_19 in LogReg has no associated case_id
+2025-06-25 19:05:14,227 - WARNING - Query ID CASE_20 in LogReg not found in ground truth
+2025-06-25 19:05:14,228 - WARNING - Query ID CASE_20 in LogReg has no associated case_id
+2025-06-25 19:05:14,229 - WARNING - Query ID CASE_21 in LogReg not found in ground truth
+2025-06-25 19:05:14,231 - WARNING - Query ID CASE_21 in LogReg has no associated case_id
+2025-06-25 19:05:14,232 - WARNING - Query ID CASE_22 in LogReg not found in ground truth
+2025-06-25 19:05:14,233 - WARNING - Query ID CASE_22 in LogReg has no associated case_id
+2025-06-25 19:05:14,233 - WARNING - Query ID CASE_23 in LogReg not found in ground truth
+2025-06-25 19:05:14,234 - WARNING - Query ID CASE_23 in LogReg has no associated case_id
+2025-06-25 19:05:14,235 - WARNING - Query ID CASE_24 in LogReg not found in ground truth
+2025-06-25 19:05:14,237 - WARNING - Query ID CASE_24 in LogReg has no associated case_id
+2025-06-25 19:05:14,238 - WARNING - Query ID CASE_25 in LogReg not found in ground truth
+2025-06-25 19:05:14,238 - WARNING - Query ID CASE_25 in LogReg has no associated case_id
+2025-06-25 19:05:14,239 - WARNING - Query ID CASE_26 in LogReg not found in ground truth
+2025-06-25 19:05:14,239 - WARNING - Query ID CASE_26 in LogReg has no associated case_id
+2025-06-25 19:05:14,240 - WARNING - Query ID CASE_27 in LogReg not found in ground truth
+2025-06-25 19:05:14,240 - WARNING - Query ID CASE_27 in LogReg has no associated case_id
+2025-06-25 19:05:14,241 - WARNING - Query ID CASE_28 in LogReg not found in ground truth
+2025-06-25 19:05:14,243 - WARNING - Query ID CASE_28 in LogReg has no associated case_id
+2025-06-25 19:05:14,246 - WARNING - Query ID CASE_29 in LogReg not found in ground truth
+2025-06-25 19:05:14,250 - WARNING - Query ID CASE_29 in LogReg has no associated case_id
+2025-06-25 19:05:14,251 - WARNING - Query ID CASE_30 in LogReg not found in ground truth
+2025-06-25 19:05:14,252 - WARNING - Query ID CASE_30 in LogReg has no associated case_id
+2025-06-25 19:05:14,252 - WARNING - Query ID CASE_31 in LogReg not found in ground truth
+2025-06-25 19:05:14,253 - WARNING - Query ID CASE_31 in LogReg has no associated case_id
+2025-06-25 19:05:14,253 - WARNING - Query ID CASE_32 in LogReg not found in ground truth
+2025-06-25 19:05:14,259 - WARNING - Query ID CASE_32 in LogReg has no associated case_id
+2025-06-25 19:05:14,261 - WARNING - Query ID CASE_33 in LogReg not found in ground truth
+2025-06-25 19:05:14,262 - WARNING - Query ID CASE_33 in LogReg has no associated case_id
+2025-06-25 19:05:14,268 - WARNING - Query ID CASE_34 in LogReg not found in ground truth
+2025-06-25 19:05:14,269 - WARNING - Query ID CASE_34 in LogReg has no associated case_id
+2025-06-25 19:05:14,270 - WARNING - Query ID CASE_35 in LogReg not found in ground truth
+2025-06-25 19:05:14,273 - WARNING - Query ID CASE_35 in LogReg has no associated case_id
+2025-06-25 19:05:14,275 - WARNING - Query ID CASE_36 in LogReg not found in ground truth
+2025-06-25 19:05:14,276 - WARNING - Query ID CASE_36 in LogReg has no associated case_id
+2025-06-25 19:05:14,276 - WARNING - Query ID CASE_37 in LogReg not found in ground truth
+2025-06-25 19:05:14,282 - WARNING - Query ID CASE_37 in LogReg has no associated case_id
+2025-06-25 19:05:14,285 - WARNING - Query ID CASE_38 in LogReg not found in ground truth
+2025-06-25 19:05:14,285 - WARNING - Query ID CASE_38 in LogReg has no associated case_id
+2025-06-25 19:05:14,289 - WARNING - Query ID CASE_39 in LogReg not found in ground truth
+2025-06-25 19:05:14,291 - WARNING - Query ID CASE_39 in LogReg has no associated case_id
+2025-06-25 19:05:14,292 - WARNING - Query ID CASE_40 in LogReg not found in ground truth
+2025-06-25 19:05:14,293 - WARNING - Query ID CASE_40 in LogReg has no associated case_id
+2025-06-25 19:05:14,297 - WARNING - Query ID CASE_41 in LogReg not found in ground truth
+2025-06-25 19:05:14,298 - WARNING - Query ID CASE_41 in LogReg has no associated case_id
+2025-06-25 19:05:14,299 - WARNING - Query ID CASE_42 in LogReg not found in ground truth
+2025-06-25 19:05:14,300 - WARNING - Query ID CASE_42 in LogReg has no associated case_id
+2025-06-25 19:05:14,304 - WARNING - Query ID CASE_43 in LogReg not found in ground truth
+2025-06-25 19:05:14,305 - WARNING - Query ID CASE_43 in LogReg has no associated case_id
+2025-06-25 19:05:14,306 - WARNING - Query ID CASE_44 in LogReg not found in ground truth
+2025-06-25 19:05:14,308 - WARNING - Query ID CASE_44 in LogReg has no associated case_id
+2025-06-25 19:05:14,308 - WARNING - Query ID CASE_45 in LogReg not found in ground truth
+2025-06-25 19:05:14,309 - WARNING - Query ID CASE_45 in LogReg has no associated case_id
+2025-06-25 19:05:14,310 - WARNING - Query ID CASE_46 in LogReg not found in ground truth
+2025-06-25 19:05:14,311 - WARNING - Query ID CASE_46 in LogReg has no associated case_id
+2025-06-25 19:05:14,312 - WARNING - Query ID CASE_47 in LogReg not found in ground truth
+2025-06-25 19:05:14,313 - WARNING - Query ID CASE_47 in LogReg has no associated case_id
+2025-06-25 19:05:14,316 - WARNING - Query ID CASE_48 in LogReg not found in ground truth
+2025-06-25 19:05:14,318 - WARNING - Query ID CASE_48 in LogReg has no associated case_id
+2025-06-25 19:05:14,319 - WARNING - Query ID CASE_49 in LogReg not found in ground truth
+2025-06-25 19:05:14,321 - WARNING - Query ID CASE_49 in LogReg has no associated case_id
+2025-06-25 19:05:14,324 - WARNING - Query ID CASE_50 in LogReg not found in ground truth
+2025-06-25 19:05:14,325 - WARNING - Query ID CASE_50 in LogReg has no associated case_id
+2025-06-25 19:05:14,326 - WARNING - Query ID CASE_1 in SVM not found in ground truth
+2025-06-25 19:05:14,328 - WARNING - Query ID CASE_1 in SVM has no associated case_id
+2025-06-25 19:05:14,329 - WARNING - Query ID CASE_2 in SVM not found in ground truth
+2025-06-25 19:05:14,331 - WARNING - Query ID CASE_2 in SVM has no associated case_id
+2025-06-25 19:05:14,332 - WARNING - Query ID CASE_3 in SVM not found in ground truth
+2025-06-25 19:05:14,333 - WARNING - Query ID CASE_3 in SVM has no associated case_id
+2025-06-25 19:05:14,336 - WARNING - Query ID CASE_4 in SVM not found in ground truth
+2025-06-25 19:05:14,337 - WARNING - Query ID CASE_4 in SVM has no associated case_id
+2025-06-25 19:05:14,338 - WARNING - Query ID CASE_5 in SVM not found in ground truth
+2025-06-25 19:05:14,339 - WARNING - Query ID CASE_5 in SVM has no associated case_id
+2025-06-25 19:05:14,340 - WARNING - Query ID CASE_6 in SVM not found in ground truth
+2025-06-25 19:05:14,343 - WARNING - Query ID CASE_6 in SVM has no associated case_id
+2025-06-25 19:05:14,346 - WARNING - Query ID CASE_7 in SVM not found in ground truth
+2025-06-25 19:05:14,346 - WARNING - Query ID CASE_7 in SVM has no associated case_id
+2025-06-25 19:05:14,347 - WARNING - Query ID CASE_8 in SVM not found in ground truth
+2025-06-25 19:05:14,349 - WARNING - Query ID CASE_8 in SVM has no associated case_id
+2025-06-25 19:05:14,350 - WARNING - Query ID CASE_9 in SVM not found in ground truth
+2025-06-25 19:05:14,351 - WARNING - Query ID CASE_9 in SVM has no associated case_id
+2025-06-25 19:05:14,351 - WARNING - Query ID CASE_10 in SVM not found in ground truth
+2025-06-25 19:05:14,352 - WARNING - Query ID CASE_10 in SVM has no associated case_id
+2025-06-25 19:05:14,354 - WARNING - Query ID CASE_11 in SVM not found in ground truth
+2025-06-25 19:05:14,355 - WARNING - Query ID CASE_11 in SVM has no associated case_id
+2025-06-25 19:05:14,356 - WARNING - Query ID CASE_12 in SVM not found in ground truth
+2025-06-25 19:05:14,358 - WARNING - Query ID CASE_12 in SVM has no associated case_id
+2025-06-25 19:05:14,358 - WARNING - Query ID CASE_13 in SVM not found in ground truth
+2025-06-25 19:05:14,359 - WARNING - Query ID CASE_13 in SVM has no associated case_id
+2025-06-25 19:05:14,360 - WARNING - Query ID CASE_14 in SVM not found in ground truth
+2025-06-25 19:05:14,361 - WARNING - Query ID CASE_14 in SVM has no associated case_id
+2025-06-25 19:05:14,364 - WARNING - Query ID CASE_15 in SVM not found in ground truth
+2025-06-25 19:05:14,369 - WARNING - Query ID CASE_15 in SVM has no associated case_id
+2025-06-25 19:05:14,371 - WARNING - Query ID CASE_16 in SVM not found in ground truth
+2025-06-25 19:05:14,372 - WARNING - Query ID CASE_16 in SVM has no associated case_id
+2025-06-25 19:05:14,373 - WARNING - Query ID CASE_17 in SVM not found in ground truth
+2025-06-25 19:05:14,375 - WARNING - Query ID CASE_17 in SVM has no associated case_id
+2025-06-25 19:05:14,376 - WARNING - Query ID CASE_18 in SVM not found in ground truth
+2025-06-25 19:05:14,377 - WARNING - Query ID CASE_18 in SVM has no associated case_id
+2025-06-25 19:05:14,378 - WARNING - Query ID CASE_19 in SVM not found in ground truth
+2025-06-25 19:05:14,379 - WARNING - Query ID CASE_19 in SVM has no associated case_id
+2025-06-25 19:05:14,381 - WARNING - Query ID CASE_20 in SVM not found in ground truth
+2025-06-25 19:05:14,382 - WARNING - Query ID CASE_20 in SVM has no associated case_id
+2025-06-25 19:05:14,383 - WARNING - Query ID CASE_21 in SVM not found in ground truth
+2025-06-25 19:05:14,384 - WARNING - Query ID CASE_21 in SVM has no associated case_id
+2025-06-25 19:05:14,385 - WARNING - Query ID CASE_22 in SVM not found in ground truth
+2025-06-25 19:05:14,386 - WARNING - Query ID CASE_22 in SVM has no associated case_id
+2025-06-25 19:05:14,388 - WARNING - Query ID CASE_23 in SVM not found in ground truth
+2025-06-25 19:05:14,389 - WARNING - Query ID CASE_23 in SVM has no associated case_id
+2025-06-25 19:05:14,390 - WARNING - Query ID CASE_24 in SVM not found in ground truth
+2025-06-25 19:05:14,391 - WARNING - Query ID CASE_24 in SVM has no associated case_id
+2025-06-25 19:05:14,392 - WARNING - Query ID CASE_25 in SVM not found in ground truth
+2025-06-25 19:05:14,393 - WARNING - Query ID CASE_25 in SVM has no associated case_id
+2025-06-25 19:05:14,394 - WARNING - Query ID CASE_26 in SVM not found in ground truth
+2025-06-25 19:05:14,395 - WARNING - Query ID CASE_26 in SVM has no associated case_id
+2025-06-25 19:05:14,396 - WARNING - Query ID CASE_27 in SVM not found in ground truth
+2025-06-25 19:05:14,397 - WARNING - Query ID CASE_27 in SVM has no associated case_id
+2025-06-25 19:05:14,399 - WARNING - Query ID CASE_28 in SVM not found in ground truth
+2025-06-25 19:05:14,400 - WARNING - Query ID CASE_28 in SVM has no associated case_id
+2025-06-25 19:05:14,402 - WARNING - Query ID CASE_29 in SVM not found in ground truth
+2025-06-25 19:05:14,403 - WARNING - Query ID CASE_29 in SVM has no associated case_id
+2025-06-25 19:05:14,404 - WARNING - Query ID CASE_30 in SVM not found in ground truth
+2025-06-25 19:05:14,405 - WARNING - Query ID CASE_30 in SVM has no associated case_id
+2025-06-25 19:05:14,406 - WARNING - Query ID CASE_31 in SVM not found in ground truth
+2025-06-25 19:05:14,407 - WARNING - Query ID CASE_31 in SVM has no associated case_id
+2025-06-25 19:05:14,408 - WARNING - Query ID CASE_32 in SVM not found in ground truth
+2025-06-25 19:05:14,410 - WARNING - Query ID CASE_32 in SVM has no associated case_id
+2025-06-25 19:05:14,411 - WARNING - Query ID CASE_33 in SVM not found in ground truth
+2025-06-25 19:05:14,412 - WARNING - Query ID CASE_33 in SVM has no associated case_id
+2025-06-25 19:05:14,413 - WARNING - Query ID CASE_34 in SVM not found in ground truth
+2025-06-25 19:05:14,414 - WARNING - Query ID CASE_34 in SVM has no associated case_id
+2025-06-25 19:05:14,415 - WARNING - Query ID CASE_35 in SVM not found in ground truth
+2025-06-25 19:05:14,415 - WARNING - Query ID CASE_35 in SVM has no associated case_id
+2025-06-25 19:05:14,417 - WARNING - Query ID CASE_36 in SVM not found in ground truth
+2025-06-25 19:05:14,418 - WARNING - Query ID CASE_36 in SVM has no associated case_id
+2025-06-25 19:05:14,419 - WARNING - Query ID CASE_37 in SVM not found in ground truth
+2025-06-25 19:05:14,420 - WARNING - Query ID CASE_37 in SVM has no associated case_id
+2025-06-25 19:05:14,420 - WARNING - Query ID CASE_38 in SVM not found in ground truth
+2025-06-25 19:05:14,421 - WARNING - Query ID CASE_38 in SVM has no associated case_id
+2025-06-25 19:05:14,422 - WARNING - Query ID CASE_39 in SVM not found in ground truth
+2025-06-25 19:05:14,423 - WARNING - Query ID CASE_39 in SVM has no associated case_id
+2025-06-25 19:05:14,424 - WARNING - Query ID CASE_40 in SVM not found in ground truth
+2025-06-25 19:05:14,425 - WARNING - Query ID CASE_40 in SVM has no associated case_id
+2025-06-25 19:05:14,425 - WARNING - Query ID CASE_41 in SVM not found in ground truth
+2025-06-25 19:05:14,428 - WARNING - Query ID CASE_41 in SVM has no associated case_id
+2025-06-25 19:05:14,428 - WARNING - Query ID CASE_42 in SVM not found in ground truth
+2025-06-25 19:05:14,429 - WARNING - Query ID CASE_42 in SVM has no associated case_id
+2025-06-25 19:05:14,431 - WARNING - Query ID CASE_43 in SVM not found in ground truth
+2025-06-25 19:05:14,431 - WARNING - Query ID CASE_43 in SVM has no associated case_id
+2025-06-25 19:05:14,432 - WARNING - Query ID CASE_44 in SVM not found in ground truth
+2025-06-25 19:05:14,433 - WARNING - Query ID CASE_44 in SVM has no associated case_id
+2025-06-25 19:05:14,434 - WARNING - Query ID CASE_45 in SVM not found in ground truth
+2025-06-25 19:05:14,435 - WARNING - Query ID CASE_45 in SVM has no associated case_id
+2025-06-25 19:05:14,435 - WARNING - Query ID CASE_46 in SVM not found in ground truth
+2025-06-25 19:05:14,436 - WARNING - Query ID CASE_46 in SVM has no associated case_id
+2025-06-25 19:05:14,436 - WARNING - Query ID CASE_47 in SVM not found in ground truth
+2025-06-25 19:05:14,438 - WARNING - Query ID CASE_47 in SVM has no associated case_id
+2025-06-25 19:05:14,440 - WARNING - Query ID CASE_48 in SVM not found in ground truth
+2025-06-25 19:05:14,440 - WARNING - Query ID CASE_48 in SVM has no associated case_id
+2025-06-25 19:05:14,441 - WARNING - Query ID CASE_49 in SVM not found in ground truth
+2025-06-25 19:05:14,442 - WARNING - Query ID CASE_49 in SVM has no associated case_id
+2025-06-25 19:05:14,442 - WARNING - Query ID CASE_50 in SVM not found in ground truth
+2025-06-25 19:05:14,442 - WARNING - Query ID CASE_50 in SVM has no associated case_id
+2025-06-25 19:05:14,443 - WARNING - Query ID CASE_1 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,445 - WARNING - Query ID CASE_1 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,445 - WARNING - Query ID CASE_2 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,446 - WARNING - Query ID CASE_2 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,446 - WARNING - Query ID CASE_3 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,447 - WARNING - Query ID CASE_3 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,448 - WARNING - Query ID CASE_4 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,448 - WARNING - Query ID CASE_4 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,449 - WARNING - Query ID CASE_5 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,449 - WARNING - Query ID CASE_5 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,451 - WARNING - Query ID CASE_6 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,452 - WARNING - Query ID CASE_6 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,453 - WARNING - Query ID CASE_7 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,453 - WARNING - Query ID CASE_7 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,454 - WARNING - Query ID CASE_8 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,455 - WARNING - Query ID CASE_8 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,455 - WARNING - Query ID CASE_9 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,456 - WARNING - Query ID CASE_9 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,456 - WARNING - Query ID CASE_10 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,457 - WARNING - Query ID CASE_10 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,457 - WARNING - Query ID CASE_11 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,458 - WARNING - Query ID CASE_11 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,459 - WARNING - Query ID CASE_12 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,460 - WARNING - Query ID CASE_12 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,460 - WARNING - Query ID CASE_13 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,461 - WARNING - Query ID CASE_13 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,462 - WARNING - Query ID CASE_14 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,463 - WARNING - Query ID CASE_14 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,464 - WARNING - Query ID CASE_15 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,464 - WARNING - Query ID CASE_15 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,466 - WARNING - Query ID CASE_16 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,467 - WARNING - Query ID CASE_16 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,468 - WARNING - Query ID CASE_17 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,468 - WARNING - Query ID CASE_17 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,469 - WARNING - Query ID CASE_18 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,470 - WARNING - Query ID CASE_18 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,471 - WARNING - Query ID CASE_19 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,472 - WARNING - Query ID CASE_19 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,473 - WARNING - Query ID CASE_20 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,474 - WARNING - Query ID CASE_20 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,475 - WARNING - Query ID CASE_21 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,475 - WARNING - Query ID CASE_21 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,476 - WARNING - Query ID CASE_22 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,477 - WARNING - Query ID CASE_22 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,478 - WARNING - Query ID CASE_23 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,479 - WARNING - Query ID CASE_23 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,480 - WARNING - Query ID CASE_24 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,481 - WARNING - Query ID CASE_24 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,482 - WARNING - Query ID CASE_25 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,482 - WARNING - Query ID CASE_25 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,483 - WARNING - Query ID CASE_26 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,483 - WARNING - Query ID CASE_26 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,485 - WARNING - Query ID CASE_27 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,486 - WARNING - Query ID CASE_27 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,486 - WARNING - Query ID CASE_28 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,487 - WARNING - Query ID CASE_28 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,488 - WARNING - Query ID CASE_29 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,489 - WARNING - Query ID CASE_29 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,490 - WARNING - Query ID CASE_30 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,491 - WARNING - Query ID CASE_30 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,492 - WARNING - Query ID CASE_31 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,494 - WARNING - Query ID CASE_31 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,495 - WARNING - Query ID CASE_32 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,497 - WARNING - Query ID CASE_32 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,498 - WARNING - Query ID CASE_33 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,499 - WARNING - Query ID CASE_33 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,501 - WARNING - Query ID CASE_34 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,502 - WARNING - Query ID CASE_34 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,502 - WARNING - Query ID CASE_35 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,503 - WARNING - Query ID CASE_35 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,504 - WARNING - Query ID CASE_36 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,505 - WARNING - Query ID CASE_36 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,506 - WARNING - Query ID CASE_37 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,506 - WARNING - Query ID CASE_37 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,507 - WARNING - Query ID CASE_38 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,508 - WARNING - Query ID CASE_38 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,510 - WARNING - Query ID CASE_39 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,511 - WARNING - Query ID CASE_39 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,512 - WARNING - Query ID CASE_40 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,512 - WARNING - Query ID CASE_40 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,512 - WARNING - Query ID CASE_41 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,513 - WARNING - Query ID CASE_41 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,514 - WARNING - Query ID CASE_42 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,516 - WARNING - Query ID CASE_42 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,516 - WARNING - Query ID CASE_43 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,517 - WARNING - Query ID CASE_43 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,518 - WARNING - Query ID CASE_44 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,520 - WARNING - Query ID CASE_44 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,521 - WARNING - Query ID CASE_45 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,522 - WARNING - Query ID CASE_45 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,523 - WARNING - Query ID CASE_46 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,524 - WARNING - Query ID CASE_46 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,525 - WARNING - Query ID CASE_47 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,525 - WARNING - Query ID CASE_47 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,527 - WARNING - Query ID CASE_48 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,527 - WARNING - Query ID CASE_48 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,528 - WARNING - Query ID CASE_49 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,528 - WARNING - Query ID CASE_49 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,529 - WARNING - Query ID CASE_50 in IndoBERT not found in ground truth
+2025-06-25 19:05:14,531 - WARNING - Query ID CASE_50 in IndoBERT has no associated case_id
+2025-06-25 19:05:14,544 - INFO - Retrieval Metrics: {'Logistic Regression': {'accuracy_at_k': 0.0, 'mrr': np.float64(0.0)}, 'SVM': {'accuracy_at_k': 0.0, 'mrr': np.float64(0.0)}, 'Indo-BERT': {'accuracy_at_k': 0.0, 'mrr': np.float64(0.0)}}
+2025-06-25 19:05:14,551 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:05:14,555 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:05:14,559 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:05:14,561 - INFO - Prediction Metrics: {'Logistic Regression': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}, 'SVM': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}, 'Indo-BERT': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}}
+2025-06-25 19:05:14,565 - INFO - Saved retrieval metrics to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval/retrieval_metrics.csv
+2025-06-25 19:05:14,568 - INFO - Saved prediction metrics to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval/prediction_metrics.csv
+2025-06-25 19:05:14,569 - INFO - Generating Confusion Matrices
+2025-06-25 19:05:14,574 - WARNING - No valid true/predicted pairs for Logistic Regression confusion matrix
+2025-06-25 19:05:14,580 - WARNING - No valid true/predicted pairs for SVM confusion matrix
+2025-06-25 19:05:14,584 - WARNING - No valid true/predicted pairs for Indo-BERT confusion matrix
+2025-06-25 19:05:14,585 - INFO - Generating Classification Reports
+2025-06-25 19:05:14,591 - INFO - Logistic Regression Classification Report
+2025-06-25 19:05:14,595 - ERROR - Error generating classification report for Logistic Regression: max() arg is an empty sequence
+2025-06-25 19:05:14,601 - INFO - SVM Classification Report
+2025-06-25 19:05:14,604 - ERROR - Error generating classification report for SVM: max() arg is an empty sequence
+2025-06-25 19:05:14,614 - INFO - Indo-BERT Classification Report
+2025-06-25 19:05:14,617 - ERROR - Error generating classification report for Indo-BERT: max() arg is an empty sequence
+2025-06-25 19:05:14,619 - INFO - Visualizing Metrics
+2025-06-25 19:05:14,913 - INFO - Performing LIME Error Analysis
+2025-06-25 19:05:14,914 - INFO - Logistic Regression Error Analysis
+2025-06-25 19:05:14,920 - WARNING - No valid training data for LIME classifier in Logistic Regression
+2025-06-25 19:05:14,921 - INFO - No errors found or no valid texts for Logistic Regression analysis
+2025-06-25 19:05:14,922 - INFO - SVM Error Analysis
+2025-06-25 19:05:14,928 - WARNING - No valid training data for LIME classifier in SVM
+2025-06-25 19:05:14,929 - INFO - No errors found or no valid texts for SVM analysis
+2025-06-25 19:05:14,930 - INFO - Indo-BERT Error Analysis
+2025-06-25 19:05:14,935 - WARNING - No valid training data for LIME classifier in Indo-BERT
+2025-06-25 19:05:14,936 - INFO - No errors found or no valid texts for Indo-BERT analysis
+2025-06-25 19:08:29,462 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\logs
+2025-06-25 19:08:29,465 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval
+2025-06-25 19:08:29,466 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\processed
+2025-06-25 19:08:29,467 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval
+2025-06-25 19:08:29,469 - INFO - Directory ensured: d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\results
+2025-06-25 19:08:29,472 - INFO - Starting evaluation process at 2025-06-25 19:08:29
+2025-06-25 19:08:29,482 - INFO - Loaded 5 queries from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval\queries.json, 0 with valid solutions, 0 with valid case IDs
+2025-06-25 19:08:29,492 - INFO - Loaded prediction results: LogReg (50), SVM (50), IndoBERT (50)
+2025-06-25 19:08:29,496 - INFO - Loaded 50 cases from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\processed\cases.csv
+2025-06-25 19:08:29,498 - WARNING - 50 query IDs in LogReg not found in ground truth: ['CASE_14', 'CASE_36', 'CASE_24', 'CASE_9', 'CASE_44']...
+2025-06-25 19:08:29,499 - WARNING - 50 query IDs in LogReg have no associated case_id: ['CASE_14', 'CASE_36', 'CASE_24', 'CASE_9', 'CASE_44']...
+2025-06-25 19:08:29,500 - WARNING - 50 query IDs in SVM not found in ground truth: ['CASE_14', 'CASE_36', 'CASE_24', 'CASE_9', 'CASE_44']...
+2025-06-25 19:08:29,501 - WARNING - 50 query IDs in SVM have no associated case_id: ['CASE_14', 'CASE_36', 'CASE_24', 'CASE_9', 'CASE_44']...
+2025-06-25 19:08:29,502 - WARNING - 50 query IDs in IndoBERT not found in ground truth: ['CASE_14', 'CASE_36', 'CASE_24', 'CASE_9', 'CASE_44']...
+2025-06-25 19:08:29,503 - WARNING - 50 query IDs in IndoBERT have no associated case_id: ['CASE_14', 'CASE_36', 'CASE_24', 'CASE_9', 'CASE_44']...
+2025-06-25 19:08:29,512 - INFO - Retrieval Metrics: {'Logistic Regression': {'accuracy_at_k': 0.0, 'mrr': np.float64(0.0)}, 'SVM': {'accuracy_at_k': 0.0, 'mrr': np.float64(0.0)}, 'Indo-BERT': {'accuracy_at_k': 0.0, 'mrr': np.float64(0.0)}}
+2025-06-25 19:08:29,515 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:08:29,518 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:08:29,520 - WARNING - No valid true/predicted pairs for prediction evaluation
+2025-06-25 19:08:29,521 - INFO - Prediction Metrics: {'Logistic Regression': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}, 'SVM': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}, 'Indo-BERT': {'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0}}
+2025-06-25 19:08:29,525 - INFO - Saved retrieval metrics to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval/retrieval_metrics.csv
+2025-06-25 19:08:29,528 - INFO - Saved prediction metrics to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval/prediction_metrics.csv
+2025-06-25 19:08:29,529 - INFO - Generating Confusion Matrices...
+2025-06-25 19:08:29,531 - WARNING - No valid true/predicted pairs for Logistic Regression confusion matrix
+2025-06-25 19:08:29,534 - WARNING - No valid true/predicted pairs for SVM confusion matrix
+2025-06-25 19:08:29,539 - WARNING - No valid true/predicted pairs for Indo-BERT confusion matrix
+2025-06-25 19:08:29,540 - INFO - Generating Classification Reports...
+2025-06-25 19:08:29,546 - INFO - Logistic Regression Classification Report
+2025-06-25 19:08:29,549 - ERROR - Error generating classification report for Logistic Regression: max() arg is an empty sequence
+2025-06-25 19:08:29,557 - INFO - SVM Classification Report
+2025-06-25 19:08:29,562 - ERROR - Error generating classification report for SVM: max() arg is an empty sequence
+2025-06-25 19:08:29,576 - INFO - Indo-BERT Classification Report
+2025-06-25 19:08:29,584 - ERROR - Error generating classification report for Indo-BERT: max() arg is an empty sequence
+2025-06-25 19:08:29,586 - INFO - Visualizing Metrics...
+2025-06-25 19:08:29,881 - INFO - Performing LIME Error Analysis...
+2025-06-25 19:08:29,882 - INFO - Logistic Regression Error Analysis
+2025-06-25 19:08:29,889 - WARNING - No valid training data for LIME classifier in Logistic Regression
+2025-06-25 19:08:29,890 - INFO - No errors found or no valid texts for Logistic Regression analysis
+2025-06-25 19:08:29,891 - INFO - SVM Error Analysis
+2025-06-25 19:08:29,897 - WARNING - No valid training data for LIME classifier in SVM
+2025-06-25 19:08:29,897 - INFO - No errors found or no valid texts for SVM analysis
+2025-06-25 19:08:29,898 - INFO - Indo-BERT Error Analysis
+2025-06-25 19:08:29,904 - WARNING - No valid training data for LIME classifier in Indo-BERT
+2025-06-25 19:08:29,905 - INFO - No errors found or no valid texts for Indo-BERT analysis

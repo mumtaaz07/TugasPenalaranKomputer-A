@@ -1,0 +1,16 @@
+2025-06-25 18:54:39,260 - INFO - Starting prediction process at 2025-06-25 18:54:39
+2025-06-25 18:54:39,286 - INFO - Loaded 50 cases from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\processed\cases.csv and 5 queries from d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\eval\queries.json
+2025-06-25 18:54:39,293 - INFO - TF-IDF matrix shape: (50, 138)
+2025-06-25 18:54:39,306 - INFO - Training data shape: (50, 279)
+2025-06-25 18:54:39,307 - INFO - Class distribution: [25 25]
+2025-06-25 18:54:41,479 - INFO - Best Logistic Regression Parameters: {'C': 0.1}
+2025-06-25 18:54:41,481 - INFO - Best CV F1 Score (LogReg): 1.00
+2025-06-25 18:54:41,520 - INFO - Best SVM Parameters: {'C': 0.1}
+2025-06-25 18:54:41,521 - INFO - Best CV F1 Score (SVM): 1.00
+2025-06-25 18:54:41,522 - INFO - Loading IndoBERT model on cpu
+2025-06-25 18:54:41,526 - INFO - Load pretrained SentenceTransformer: indobenchmark/indobert-base-p1
+2025-06-25 18:54:42,010 - WARNING - No sentence-transformers model found with name indobenchmark/indobert-base-p1. Creating a new one with mean pooling.
+2025-06-25 18:54:48,911 - INFO - Document embeddings shape: (50, 768)
+2025-06-25 18:54:59,978 - INFO - Saved results to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\results/logreg_predictions.csv
+2025-06-25 18:54:59,979 - INFO - Saved results to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\results/svm_predictions.csv
+2025-06-25 18:54:59,980 - INFO - Saved results to d:\AL FITRA\STUDI UMM\SEMESTER 6\TEORI\PENALARAN KOMPUTER\SOURCE CODE\PENALARAN KOMPUTER\CBR_Penalararan_Komputer\data\results/indobert_predictions.csv
